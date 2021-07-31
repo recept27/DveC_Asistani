@@ -1,4 +1,0 @@
-enum TruthOrDare {
-  truth,
-  dare,
-}
